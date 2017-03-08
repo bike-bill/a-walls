@@ -13,17 +13,18 @@ url: "" # the base hostname & protocol for your site
 owner: Mark Hauserman
 email: mh*****man@gmail.com
 facebook_username: mark_h*****man
-twitter_username:
-github_username:
+twitter_username: artisticwalls_mh
+linkedin_username: company-beta/5922601/
+instagram_username: artisticwalls_mh
 address:
+  - line: 301 Irving Park Rd.
   - line: Streamwood, IL, USA
-  - line:
   # Feel free to add more lines here 
 telephone: 815-555-1212
 copyright: Artistic Walls by Mark H.
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyB64-Q2dF_AHntyYblMaE7D9pXfn7VHBxc
 
 # Build settings
 markdown: kramdown

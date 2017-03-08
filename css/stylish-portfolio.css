@@ -29,6 +29,19 @@ body {
     font-weight: 700;
 }
 
+.h-dim-grey {
+    color: LightGrey;
+}
+
+.a-color-midnightblue {
+    color: MidnightBlue;
+}
+
+.bg-primary {
+    color: #fff;
+    background-color: #555;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
